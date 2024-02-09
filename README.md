@@ -7,15 +7,15 @@
 - Sistema de Conversor de Temperatura e Moeda
 ## Funcionalidades 
 ##### Conversor de Moedas Permite converter valor digitado de : 
-- Reais a Dólares
-- Reais a Euros
-- Reais a Libras
-- Reais a Yenes
-- Reais a Won Coreano
-- Dólares a Reais
-- Euros a Reais
-- Libras a Reais
-- Yenes a Reais
+- Reais para Dólares
+- Reais para Euros
+- Reais para Libras
+- Reais para Yenes
+- Reais para Won Coreano
+- Dólares para Reais
+- Euros para Reais
+- Libras para Reais
+- Yenes para Reais
 - Won Coreano a Reais
 ##### Conversor de Temperatura Permite converter valor digitado de :
 - Celsius (C) para Kelvin (K)
@@ -34,18 +34,21 @@
 <p align="center" >
      <img width="600" heigth="600" src="img/PrimeiraTela.png">
 </p>
+---
 - Selecionando Conversor de Temperatura ou Conversor de Moeda  
 <p align="center" >
      <img width="600" heigth="600" src="img/SegundaTela.png">
 </p>
+---
 - No caso de escolher : Conversor de Moeda  
 <p align="center" >
-     <img width="600" heigth="600" src="img/EscolhaMoeda.png.png">
+     <img width="600" heigth="600" src="img/EscolhaMoeda.png">
 </p>
 
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaMoedaChackbox.png">
 </p>
+---
 - No caso de escolher : Conversor de Temperatura  
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaTemperatura.png">
@@ -54,22 +57,27 @@
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaTemperaturaChackbox.png">
 </p>
+---
 - Resposta Conversor de Moeda  
 <p align="center" >
      <img width="600" heigth="600" src="img/RespostaMoeda.png">
 </p>
+---
 - Resposta Conversor de Temperatura  
 <p align="center" >
      <img width="600" heigth="600" src="img/RespostaTemperatura.png">
 </p>
+---
 - Pergunta Final   
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFinal.png">
 </p>
+---
 - Se pergunta final for "Sim" (recomeça para converte novo valor)  
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFinalSim.png">
 </p>
+---
 - Se pergunta final for "Não" ou "Cancelar" (Finaliza Programa)  
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFInalNao.png">
@@ -77,7 +85,7 @@
 
 Badge pela Conclusão do Desafio
 ---
---> em breve 
+-> em breve 
 <img src="">
 
 
