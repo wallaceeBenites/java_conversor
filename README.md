@@ -27,6 +27,12 @@
 ````
  Java - AWT - SWING 
 ````
+## Para iniciar: 
+---
+♦ Utilize o executável 
+<p align="center" >
+     <img width="600" heigth="600" src="img/atalho.JPG">
+</p>
 
 ## Imagem Previa 
 ---
