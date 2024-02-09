@@ -30,17 +30,15 @@
 
 ## Imagem Previa 
 ---
-- Primeira Janela 
+♦ Primeira Janela 
 <p align="center" >
      <img width="600" heigth="600" src="img/PrimeiraTela.png">
 </p>
----
-- Selecionando Conversor de Temperatura ou Conversor de Moeda  
+♦ Selecionando Conversor de Temperatura ou Conversor de Moeda  
 <p align="center" >
      <img width="600" heigth="600" src="img/SegundaTela.png">
 </p>
----
-- No caso de escolher : Conversor de Moeda  
+♦ No caso de escolher : Conversor de Moeda  
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaMoeda.png">
 </p>
@@ -48,8 +46,8 @@
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaMoedaChackbox.png">
 </p>
----
-- No caso de escolher : Conversor de Temperatura  
+
+♦ No caso de escolher : Conversor de Temperatura  
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaTemperatura.png">
 </p>
@@ -57,35 +55,35 @@
 <p align="center" >
      <img width="600" heigth="600" src="img/EscolhaTemperaturaChackbox.png">
 </p>
----
-- Resposta Conversor de Moeda  
+
+♦ Resposta Conversor de Moeda  
 <p align="center" >
      <img width="600" heigth="600" src="img/RespostaMoeda.png">
 </p>
----
-- Resposta Conversor de Temperatura  
+
+♦ Resposta Conversor de Temperatura  
 <p align="center" >
      <img width="600" heigth="600" src="img/RespostaTemperatura.png">
 </p>
----
-- Pergunta Final   
+
+♦ Pergunta Final   
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFinal.png">
 </p>
----
-- Se pergunta final for "Sim" (recomeça para converte novo valor)  
+
+♦ Se pergunta final for "Sim" (recomeça para converte novo valor)  
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFinalSim.png">
 </p>
----
-- Se pergunta final for "Não" ou "Cancelar" (Finaliza Programa)  
+
+♦ Se pergunta final for "Não" ou "Cancelar" (Finaliza Programa)  
 <p align="center" >
      <img width="600" heigth="600" src="img/PerguntaFInalNao.png">
 </p>
 
 Badge pela Conclusão do Desafio
 ---
--> em breve 
+► em breve 
 <img src="">
 
 
