@@ -84,7 +84,8 @@
 Badge pela Conclusão do Desafio
 ---
 ► https://d335luupugsy2.cloudfront.net/cms%2Ffiles%2F10224%2F1671211937Prancheta_8.png?utm_campaign=alura_latam_-_challenge_email_projeto_5_br&utm_medium=email&utm_source=RD+Station
-
+<p align="center" >
 <img src="img/Badge.png">
+</p>
 
 
